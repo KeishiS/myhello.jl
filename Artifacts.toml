@@ -1,0 +1,9 @@
+[[myhello]]
+arch = "x86_64"
+git-tree-sha1 = "ef05d73c7ed86cf1a7b1f932cf5d412b96b1868c"
+libc = "glibc"
+os = "linux"
+
+    [[myhello.download]]
+    sha256 = "739d81cd806fa7f3bb31391a5b6d2ad3c6a66cc3d17a4598fcec06854c8db3f0"
+    url = "https://github.com/KeishiS/myhello/releases/download/v0.1.14/myhello-v0.1.14-x86_64-unknown-linux-gnu.tar.gz"

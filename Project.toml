@@ -1,0 +1,8 @@
+name = "myhello"
+uuid = "f47def10-15d6-4d55-9916-1f10a3b211dd"
+authors = ["KeishiS <sando.keishi.sp@alumni.tsukuba.ac.jp>"]
+version = "0.1.0"
+
+[deps]
+ArtifactUtils = "8b73e784-e7d8-4ea5-973d-377fed4e3bce"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
